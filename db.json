@@ -1,0 +1,19 @@
+{
+  "skincares": [
+    {
+      "id": "cc26",
+      "nama": "Night Cream",
+      "jenis": "Acne"
+    },
+    {
+      "id": "74af",
+      "nama": "Night Cream",
+      "jenis": "Brightening"
+    },
+    {
+      "id": "ca3f",
+      "nama": "Day Cream",
+      "jenis": "Brightening"
+    }
+  ]
+}
